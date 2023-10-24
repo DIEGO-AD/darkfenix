@@ -315,7 +315,7 @@ const handler = async (m, {conn, command, args, text, usedPrefix}) => {
   } catch {
     try {
       const mediaa = await ytMp4(yt_play[0].url);
-      await conn.sendMessage(m.chat, {video: {url: mediaa.result}, fileName: `error.mp4`, caption: `𝐁𝐨𝐧𝐧𝐢`, thumbnail: mediaa.thumb, mimetype: 'video/mp4'}, {quoted: m});
+      await conn.sendMessage(m.chat, {video: {url: mediaa.result}, fileName: `error.mp4`, caption: `𝐅𝐨𝐱`, thumbnail: mediaa.thumb, mimetype: 'video/mp4'}, {quoted: m});
     } catch {
       try {
         const lolhuman = await fetch(`https://api.lolhuman.xyz/api/ytvideo2?apikey=${lolkeysapi}&url=${yt_play[0].url}`);

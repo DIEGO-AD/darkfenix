@@ -28,7 +28,7 @@ const handler = async (m, { conn, text }) => {
     const img = await (await fetch(`${spty.data.cover_url}`)).buffer()  
     const letra_s = await find_lyrics(spty.data.name ? spty.data.name : '');
     let letra;
-    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por 𝐁𝐨𝐧𝐧𝐢 & 𝐁𝐨𝐧𝐧𝐢🤖' : '🤴🏻 Descarga por 𝐁𝐨𝐧𝐧𝐢 & 𝐁𝐨𝐧𝐧𝐢 🤖'}`  
+    letra = `${letra_s ? letra_s + '\n\n🤴🏻 Descarga por 𝐅𝐨𝐱 & 𝐅𝐨𝐱 🤖' : '🤴🏻 Descarga por 𝐅𝐨𝐱 & 𝐅𝐨𝐱 🤖'}`  
     const tags = {
       title: spty.data.name || '-',
       artist: artist,

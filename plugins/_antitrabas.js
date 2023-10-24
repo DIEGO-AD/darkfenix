@@ -14,7 +14,7 @@ export async function before(m, {conn, isAdmin, isBotAdmin, usedPrefix}) {
   const delet = m.key.participant;
   const bang = m.key.id;
   const name = await conn.getName(m.sender);
-  const fakemek = {'key': {'participant': '0@s.whatsapp.net', 'remoteJid': '0@s.whatsapp.net'}, 'message': {'groupInviteMessage': {'groupJid': '5493487587250-5493487587250@g.us', 'inviteCode': 'm', 'groupName': 'P', 'caption': '𝐁𝐨𝐧𝐧𝐢', 'jpegThumbnail': null}}};
+  const fakemek = {'key': {'participant': '0@s.whatsapp.net', 'remoteJid': '0@s.whatsapp.net'}, 'message': {'groupInviteMessage': {'groupJid': '56966023980-56966023980@g.us', 'inviteCode': 'm', 'groupName': 'P', 'caption': '𝐅𝐞𝐧𝐢𝐱 𝐁𝐨𝐭', 'jpegThumbnail': null}}};
   if (chat.antiTraba && m.text.length > 5000) { // Cantidad máxima de caracteres aceptados en un mensaje//
     if (isAdmin) return conn.sendMessage(m.chat, {text: `El administrador @${m.sender.split('@')[0]} acaba de enviar un texto que contiene muchos caracteres -.-!`, mentions: [m.sender]}, {quoted: fakemek});
     conn.sendMessage(m.chat, `*[ ! ] Se detecto un mensaje que contiene muchos caracteres [ ! ]*\n`, `${isBotAdmin ? '' : 'No soy administrador, no puedo hacer nada :/'}`, m);

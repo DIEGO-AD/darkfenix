@@ -42,7 +42,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   const buttonMessage= {
     'document': {url: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝐃𝐢𝐞𝐠𝐨-𝐀𝐃 」`,
+    'fileName': `「  𝐅𝐨𝐱 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
