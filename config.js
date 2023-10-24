@@ -8,37 +8,37 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5493711419554', '👑 Mystic - Creador 👑', true],
-  ['5493711419554', '💫 Mystic - Collaborator 1 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 2 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 3 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 4 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 5 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 6 💫', true],
-  ['5493711419554', '💫 Mystic - Collaborator 7 💫', false],
-  ['5493711419554', '💫 Mystic - Collaborator 8 💫', true],
-  ['5493711419554','💫 Mystic - Tester Fabri115💫', true],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'],
-  ['5493711419554'], 
-  ['5493711419554'],  
-  ['5493711419554'], 
-  ['5493711419554']
+  ['56966023980', '👑 Mystic - Creador 👑', true],
+  ['56966023980', '💫 Mystic - Collaborator 1 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 2 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 3 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 4 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 5 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 6 💫', true],
+  ['56966023980', '💫 Mystic - Collaborator 7 💫', false],
+  ['56966023980', '💫 Mystic - Collaborator 8 💫', true],
+  ['56966023980','💫 Mystic - Tester Fabri115💫', true],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'],
+  ['56966023980'], 
+  ['56966023980'],  
+  ['56966023980'], 
+  ['56966023980']
 ];
 
-global.suittag = ['5493711419554'];
-global.prems = ['5493711419554'];
+global.suittag = ['56966023980'];
+global.prems = ['56966023980'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★DIEGO-AD★';
-global.wm = '★DIEGO-AD★';
-global.titulowm = '🤖 DIEGO-AD 🤖';
-global.titulowm2 = `乂  DIEGO-ADD 𝚃  乂`
+global.author = '★FOX★';
+global.wm = '★FOX★';
+global.titulowm = '🤖 FOX 🤖';
+global.titulowm2 = `乂  FOX   乂`
 global.igfg = '★DIEGO-AD★';
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
@@ -60,7 +60,7 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝐃𝐢𝐞𝐠𝐨-𝐀𝐃`;
+global.wm2 = `▸ ${dia} ${fecha}\n▸ FOX`;
 global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
