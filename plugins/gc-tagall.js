@@ -6,7 +6,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
   const oi = `👻 𝐀𝐜𝐭𝐢́𝐯𝐞𝐧𝐬𝐞 𝐓𝐞𝐧𝐞𝐦𝐨𝐬 𝐀𝐜𝐭𝐢𝐯𝐢𝐝𝐚𝐝𝐞𝐬 👻 : ${pesan}`;
-  let teks = `*Creador Wa.me/56966023980 SI QUIERES BOT COMUNICAME*\n\n❏ ${oi}\n\n❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*\n`;
+  let teks = `*Creador Wa.me/56942528533 SI QUIERES BOT COMUNICAME*\n\n❏ ${oi}\n\n❏ *𝙴𝚃𝙸𝚀𝚄𝙴𝚃𝙰𝚂:*\n`;
   for (const mem of participants) {
     teks += `👻 @${mem.id.split('@')[0]}\n`;
   } 
