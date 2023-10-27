@@ -8,31 +8,31 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['56966023980', '👑 Mystic - Creador 👑', true],
-  ['56966023980', '💫 Mystic - Collaborator 1 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 2 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 3 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 4 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 5 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 6 💫', true],
-  ['56966023980', '💫 Mystic - Collaborator 7 💫', false],
-  ['56966023980', '💫 Mystic - Collaborator 8 💫', true],
-  ['56966023980','💫 Mystic - Tester Fabri115💫', true],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'],
-  ['56966023980'], 
-  ['56966023980'],  
-  ['56966023980'], 
-  ['56966023980']
+  ['56942528533', '👑 Mystic - Creador 👑', true],
+  ['56942528533', '💫 Mystic - Collaborator 1 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 2 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 3 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 4 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 5 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 6 💫', true],
+  ['56942528533', '💫 Mystic - Collaborator 7 💫', false],
+  ['56942528533', '💫 Mystic - Collaborator 8 💫', true],
+  ['56942528533','💫 Mystic - Tester Fabri115💫', true],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'],
+  ['56942528533'], 
+  ['56942528533'],  
+  ['56942528533'], 
+  ['56942528533']
 ];
 
-global.suittag = ['56966023980'];
-global.prems = ['56966023980'];
+global.suittag = ['56942528533'];
+global.prems = ['56942528533'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
 global.author = '★FOX★';
